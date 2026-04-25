@@ -1,5 +1,7 @@
 # flyokai/amp-csv-reader
 
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
+
 Async CSV file reader built on AMPHP 3.x. Non-blocking streaming of large CSV files using generator-based parsing and queue-based row buffering.
 
 ## Key Abstractions
